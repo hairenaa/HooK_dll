@@ -1,2 +1,2 @@
 # HooK_dll
-just use it
+You can use it to hook some input event
