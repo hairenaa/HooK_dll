@@ -1,5 +1,0 @@
-F:\vs prroject\Hook_dll\Hook_dll\bin\Debug\Hook_dll.dll
-F:\vs prroject\Hook_dll\Hook_dll\bin\Debug\Hook_dll.pdb
-F:\vs prroject\Hook_dll\Hook_dll\obj\Debug\Hook_dll.dll
-F:\vs prroject\Hook_dll\Hook_dll\obj\Debug\Hook_dll.pdb
-F:\vs prroject\Hook_dll\Hook_dll\obj\Debug\Hook_dll.csprojResolveAssemblyReference.cache
